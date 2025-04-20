@@ -20,7 +20,7 @@ No installation required. Simply open the application in any modern web browser.
 ## Support and contact details
 For support, questions, or feedback, contact me via GitHub Paulmachukamakori or reach out directly at 0717 382 704. Always happy to help!
 
-### License
+## LICENCE 
 *This project is licensed under the MIT License*  
 Copyright (c) 2025 **Paulmachukamakori**
 
