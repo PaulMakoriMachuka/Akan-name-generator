@@ -9,7 +9,7 @@ Akan Name Generator is a web app that calculates a Ghanaian Akan name based on t
 ## BEHAVIOR-DRIVEN DEVELOPMENT
 Behavior-Driven Development defines expected app interactions through user-centric scenarios, ensuring accurate Akan name generation based on date of birth and gender selections.
 
-## Setup/Installation Requirements
+## SETUP/INSTALLATION REQUIRMENTS
 No installation required. Simply open the application in any modern web browser. The app runs fully on the frontend—no backend, dependencies, or extra tools needed.
 
 ## TECHNOLOGIES USED
