@@ -22,6 +22,6 @@ For support, questions, or feedback, contact me via GitHub Paulmachukamakori or 
 
 ## LICENCE 
 *This project is licensed under the MIT License*  
-Copyright (c) 2025 **Paulmachukamakori**
+Copyright (c) 2025 **Paulmachukamakori**.
 
 
