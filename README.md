@@ -12,7 +12,7 @@ Behavior-Driven Development defines expected app interactions through user-centr
 ## Setup/Installation Requirements
 No installation required. Simply open the application in any modern web browser. The app runs fully on the frontend—no backend, dependencies, or extra tools needed.
 
-## Technologies Used
+## TECHNOLOGIES USED
 * HTML
 * CSS
 *JS
