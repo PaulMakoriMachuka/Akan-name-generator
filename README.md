@@ -17,7 +17,7 @@ No installation required. Simply open the application in any modern web browser.
 2.CSS
 3.JS
 
-## Support and contact details
+## SUPPORT AND CONTACT DETAILS
 For support, questions, or feedback, contact me via GitHub Paulmachukamakori or reach out directly at 0717 382 704. Always happy to help!
 
 ## LICENCE 
