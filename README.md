@@ -13,9 +13,9 @@ Behavior-Driven Development defines expected app interactions through user-centr
 No installation required. Simply open the application in any modern web browser. The app runs fully on the frontend—no backend, dependencies, or extra tools needed.
 
 ## TECHNOLOGIES USED
-* HTML
-* CSS
-*JS
+1.HTML
+2.CSS
+3.JS
 
 ## Support and contact details
 For support, questions, or feedback, contact me via GitHub Paulmachukamakori or reach out directly at 0717 382 704. Always happy to help!
